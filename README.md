@@ -8,3 +8,4 @@
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/) | [PHP](./algorithms/php/decompress-run-length-encoded-list.php) |Easy|
 |1209|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [PHP](./algorithms/php/convert-binary-number-in-a-linked-list-to-integer.php) |Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [PHP](./algorithms/php/running-sum-of-1d-array.php) |Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Javascript](./algorithms/javascript/add-two-numbers.js) |Medium|
