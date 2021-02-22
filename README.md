@@ -9,3 +9,4 @@
 |1209|[convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [PHP](./algorithms/php/convert-binary-number-in-a-linked-list-to-integer.php) |Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [PHP](./algorithms/php/running-sum-of-1d-array.php) |Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Javascript](./algorithms/javascript/add-two-numbers.js) |Medium|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Javascript](./algorithms/javascript/reverse-nodes-in-k-group.js)|Hard|
