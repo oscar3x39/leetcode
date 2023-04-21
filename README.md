@@ -1,4 +1,4 @@
-# Two Sum
+# 1. Two Sum
 ```
 class Solution {
 
@@ -17,6 +17,25 @@ class Solution {
 
             $map[$nums[$i]] = $i;
         }
+    }
+}
+```
+
+# 1480. Running Sum of 1d Array
+```
+class Solution {
+
+    /**
+     * @param Integer[] $nums
+     * @return Integer[]
+     */
+    function runningSum($nums) {
+        
+        for ($i=1; $i<count($nums); $i++) {
+            $nums[$i] = $nums[$i] + $nums[$i-1];
+        }
+
+        return $nums;
     }
 }
 ```
